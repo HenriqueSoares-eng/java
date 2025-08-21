@@ -1,9 +1,6 @@
-class principal {
+primeiro conteudo do arquivo
 
-	public static void main (String[] args) {
+segundo conteudo do arquivo
 
-		System.out.println("Olá mundo");
-
-	}
-
-}
+terceiro conteudo do arquivo	
+		
